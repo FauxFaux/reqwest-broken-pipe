@@ -1,0 +1,7 @@
+[package]
+authors = ["Chris West (Faux) <git@goeswhere.com>"]
+name = "reqwest-broken-pipe"
+version = "0.1.0"
+
+[dependencies]
+reqwest = "0.8.1"
